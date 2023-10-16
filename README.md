@@ -1,9 +1,9 @@
 # Icarus
 Offensive security agent to aid in penetration testing and similar engagements
 
-## Stage: Planning
+## Current Stage: Planning
 
-## Progression:
+## Progression
 - [x] Inception
 - [ ] Planning
 - [ ] Development
